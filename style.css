@@ -19,6 +19,7 @@
 html,
 body {
 	background: var(--darkest-color);
+	color: var(--lightest-color);
 }
 .wrapper{
   background: var(--dark-color);
