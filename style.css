@@ -124,7 +124,7 @@ nav .content .links{
 /* Dropdown Menu code start */
 .content .links ul{
   position: absolute;
-  background: var(--mid-color);
+  background-color: var(--mid-color);
   top: 80px;
   z-index: -1;
   opacity: 0;
