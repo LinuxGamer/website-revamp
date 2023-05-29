@@ -15,7 +15,10 @@
   box-sizing: border-box;
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
-	background-color: var(--darkest-color);
+}
+html,
+body {
+	background: var(--darkest-color);
 }
 .wrapper{
   background: var(--dark-color);
