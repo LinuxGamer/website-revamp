@@ -39,7 +39,7 @@ nav .content .links{
   display: flex;
 }
 .content .logo a{
-  color: #fff;
+  color: var(--brand-color);
   font-size: 30px;
   font-weight: 600;
 }
